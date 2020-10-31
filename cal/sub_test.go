@@ -13,7 +13,7 @@ func TestSub(t *testing.T) {
 			desc:    "",
 			intputA: 13,
 			inputB:  12,
-			want:    1,
+			want:    2,
 		},
 	}
 	for _, tC := range testCases {
