@@ -1,2 +1,2 @@
-# studyGo
-studyGo
+# study
+study
