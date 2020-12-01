@@ -1,2 +1,4 @@
-# studyGo
-studyGo
+# Initial page
+
+init page
+
